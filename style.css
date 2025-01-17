@@ -111,6 +111,7 @@ section#img02 > p {
 
 footer {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
 }
 
 footer > p {
